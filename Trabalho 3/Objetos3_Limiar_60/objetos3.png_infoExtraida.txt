@@ -1,0 +1,12 @@
+Numero de regiões: 4
+
+Região: 0	área: 688.5	perímetro: 108.66904711723328	excentricidade: 0.8827037926789457	solidez: 0.972457627118644
+Região: 1	área: 1761.5	perímetro: 179.78174459934235	excentricidade: 0.8642784962976751	solidez: 0.9718620689655172
+Região: 2	área: 478.0	perímetro: 94.42640566825867	excentricidade: 0.8505703620559334	solidez: 0.925459825750242
+Região: 3	área: 3690.5	perímetro: 265.1198377609253	excentricidade: 0.8962339635032489	solidez: 0.9782637508283631
+
+Número de regiões pequenas: 2
+
+Número de regiões medias: 1
+
+Número de regiões grandes: 1

@@ -1,0 +1,25 @@
+Numero de regiões: 17
+
+Região: 0	área: 304.0	perímetro: 67.65685415267944	excentricidade: 0.3285597512938296	solidez: 1.0
+Região: 1	área: 2448.0	perímetro: 195.65685415267944	excentricidade: 0.19899432872269654	solidez: 1.0
+Região: 2	área: 2399.0	perímetro: 193.65685415267944	excentricidade: 0.0	solidez: 1.0
+Região: 3	área: 304.0	perímetro: 67.65685415267944	excentricidade: 0.32855975129414133	solidez: 1.0
+Região: 4	área: 322.0	perímetro: 69.65685415267944	excentricidade: 8.061789867117392e-07	solidez: 1.0
+Região: 5	área: 2448.0	perímetro: 195.65685415267944	excentricidade: 0.19899432872251996	solidez: 1.0
+Região: 6	área: 2448.0	perímetro: 195.65685415267944	excentricidade: 0.19899432872266112	solidez: 1.0
+Região: 7	área: 322.0	perímetro: 69.65685415267944	excentricidade: 4.654078986269658e-07	solidez: 1.0
+Região: 8	área: 322.0	perímetro: 69.65685415267944	excentricidade: 1.0407903752085552e-06	solidez: 1.0
+Região: 9	área: 2448.0	perímetro: 195.65685415267944	excentricidade: 0.19899432872269654	solidez: 1.0
+Região: 10	área: 322.0	perímetro: 69.65685415267944	excentricidade: 8.328002902757271e-07	solidez: 1.0
+Região: 11	área: 304.0	perímetro: 67.65685415267944	excentricidade: 0.3285597512942192	solidez: 1.0
+Região: 12	área: 2399.0	perímetro: 193.65685415267944	excentricidade: 6.989264130329236e-08	solidez: 1.0
+Região: 13	área: 304.0	perímetro: 67.65685415267944	excentricidade: 0.3285597512942192	solidez: 1.0
+Região: 14	área: 304.0	perímetro: 67.65685415267944	excentricidade: 0.32855975129423864	solidez: 1.0
+Região: 15	área: 2448.0	perímetro: 195.65685415267944	excentricidade: 0.1989943287227077	solidez: 1.0
+Região: 16	área: 2448.0	perímetro: 195.65685415267944	excentricidade: 0.1989943287227077	solidez: 1.0
+
+Número de regiões pequenas: 9
+
+Número de regiões medias: 8
+
+Número de regiões grandes: 0
