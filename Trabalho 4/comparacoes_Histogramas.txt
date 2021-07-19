@@ -1,0 +1,15 @@
+Medida Chi-Quadrado entre os histogramas das texturas: brick1 vs brick2 é:	0.07077059145636508
+Medida Chi-Quadrado entre os histogramas das texturas: brick1 vs madeira1 é:	1.475403362562959
+Medida Chi-Quadrado entre os histogramas das texturas: brick1 vs metal1 é:	1.283624806542945
+Medida Chi-Quadrado entre os histogramas das texturas: brick1 vs metal2 é:	0.09130207726328605
+Medida Chi-Quadrado entre os histogramas das texturas: brick2 vs madeira1 é:	2.2896858952664885
+Medida Chi-Quadrado entre os histogramas das texturas: brick2 vs metal1 é:	1.442558488486442
+Medida Chi-Quadrado entre os histogramas das texturas: brick2 vs metal2 é:	0.0664922698289738
+Medida Chi-Quadrado entre os histogramas das texturas: madeira1 vs metal1 é:	1.0431260352578529
+Medida Chi-Quadrado entre os histogramas das texturas: madeira1 vs metal2 é:	4.023284647997252
+Medida Chi-Quadrado entre os histogramas das texturas: metal1 vs metal2 é:	1.9110020815711424
+Medida Chi-Quadrado entre os histogramas das texturas: brick1 vs brick1 é:	0.0
+Medida Chi-Quadrado entre os histogramas das texturas: brick2 vs brick2 é:	0.0
+Medida Chi-Quadrado entre os histogramas das texturas: madeira1 vs madeira1 é:	0.0
+Medida Chi-Quadrado entre os histogramas das texturas: metal1 vs metal1 é:	0.0
+Medida Chi-Quadrado entre os histogramas das texturas: metal2 vs metal2 é:	0.0

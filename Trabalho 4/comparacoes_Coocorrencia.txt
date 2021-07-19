@@ -1,0 +1,5 @@
+Medidas da Matriz de Coocorrencia da imagem brick1: Contraste:180.6061472902607	Energia:0.022033732464199245
+Medidas da Matriz de Coocorrencia da imagem brick2: Contraste:214.01305266568247	Energia:0.023157805172952965
+Medidas da Matriz de Coocorrencia da imagem madeira1: Contraste:357.6705964141714	Energia:0.0320363862017948
+Medidas da Matriz de Coocorrencia da imagem metal1: Contraste:11.192537998818214	Energia:0.08397709207537818
+Medidas da Matriz de Coocorrencia da imagem metal2: Contraste:112.71631668714318	Energia:0.03412997716126412
